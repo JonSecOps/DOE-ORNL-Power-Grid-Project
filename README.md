@@ -11,3 +11,4 @@ This project emulates the 2015 Ukraine power grid cyberattacks using a virtual t
 6. **Networking Skills:** Built and managed virtual network testbeds.
 7. **Documentation:** Improved attack-chain reporting and knowledge sharing.
 
+https://github.com/JonSecOps/DOE-ORNL-Power-Grid-Project/blob/main/Jonathan%20McBride%20Poster.pdf
