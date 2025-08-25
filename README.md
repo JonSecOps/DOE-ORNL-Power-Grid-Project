@@ -1,6 +1,6 @@
 # DOE-ORNL-Power-Grid-Project
 **Project Summary:**
-This project emulates the 2015 Ukraine power grid cyberattacks using a virtual testbed to recreate the Industrial Control System (ICS) Kill Chain attack methodology. The purpose is to analyze vulnerabilities and tactics used in the attack to improve the cybersecurity measures of critical infrastructure like the U.S. power grid.
+This project emulates the 2015 Ukraine Power Grid Attacks using a virtual testbed to recreate the Industrial Control System (ICS) Kill Chain attack methodology. The purpose is to analyze vulnerabilities and tactics used in the attack to improve the cybersecurity measures of critical infrastructure like the U.S. power grid.
 
 **Learning Points:**
 1. **ICS Vulnerabilities:** Identified common weaknesses in Industrial Control Systems.
@@ -10,6 +10,9 @@ This project emulates the 2015 Ukraine power grid cyberattacks using a virtual t
 5. **Defense Strategies:** Gained insights to improve cybersecurity for critical infrastructure.
 6. **Networking Skills:** Built and managed virtual network testbeds.
 7. **Documentation:** Improved attack-chain reporting and knowledge sharing.
+
+**Reference:**
+https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
 
 
 ![image](https://github.com/user-attachments/assets/0b3ec4dd-843a-440e-aff6-c55f1fe94cd5)
