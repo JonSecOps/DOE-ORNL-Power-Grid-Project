@@ -12,7 +12,7 @@ This project emulates the 2015 Ukraine Power Grid Attacks using a virtual testbe
 7. **Documentation:** Improved attack-chain reporting and knowledge sharing.
 
 **Reference:**
-https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
-
+1. https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
+2. https://www.youtube.com/watch?v=Yho3ab_-ukI
 
 ![image](https://github.com/user-attachments/assets/0b3ec4dd-843a-440e-aff6-c55f1fe94cd5)
